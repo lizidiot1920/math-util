@@ -41,7 +41,7 @@ public class MathUtilityTest {
         //minh test tinh huong ham phai nem ra ngoai le neu tham so sai
         //ngoai le ko phai la value de so sanh,ko dung assertEquals()
         //Junit 4 khac JUnit 5 o cho bat ngoai le
-        getFactorial(-5);
+       
         getFactorial(21);
         getFactorial(40);
         
